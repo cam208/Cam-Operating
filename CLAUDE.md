@@ -93,6 +93,11 @@ CLAUDE.md                    ← this file (canonical facts + operating rules)
 operating-cadence.md         ← maintenance rhythms (monthly/quarterly/annual)
 skills/
   deal-triage/SKILL.md       ← live triage skill (drives Olli); git-versioned
+automation/                  ← agentic workflow specs (the "operates my business" layer)
+  01-inbound-deal-triage.md  ← auto-triage loop
+  02-remarkable-pdf-intake.md← Remarkable/PDF intake + routing
+  03-portfolio-report-intake.md ← founder updates → Portfolio Snapshot + flags
+  04-weekly-operating-brief.md  ← Monday brief (pipeline + portfolio + calendar)
 Redstick-Knowledge-Base/
   README.md                  ← the KB hub (mirrors the Notion index)
   01-fund-strategy-thesis/   ← thesis, fund parameters, market landscape

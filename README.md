@@ -43,6 +43,7 @@ franchisee/operator) and co-founder **Shane Larisey** (supply-chain engineering)
 
 Plus:
 - [`skills/deal-triage/SKILL.md`](./skills/deal-triage/SKILL.md) — the live triage skill Olli runs on every inbound deal
+- [`automation/`](./automation/) — specs for the agentic workflows that run the business (inbound triage loop, Remarkable/PDF intake, portfolio-report intake, weekly operating brief)
 - [`operating-cadence.md`](./operating-cadence.md) — the maintenance rhythm that keeps the OS current
 
 ## How to use it
